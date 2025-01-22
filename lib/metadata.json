@@ -1,6 +1,6 @@
 {
   "vaultName": "Obsidian Vault",
-  "lastExport": 1735493161017,
+  "lastExport": 1737582259785,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager show-inline-title show-ribbon theme-light",
   "useCustomHeadContent": false,
@@ -24,6 +24,7 @@
     "Deep Front Line Work.md",
     "diaphragm.md",
     "diaphragm.png.avif",
+    "Erector spinae.md",
     "Fascia F.I.T.T..md",
     "Flexor digiti minimi brevis.md",
     "flexor digitorum longus.md",
@@ -32,9 +33,14 @@
     "Gastrocnemius.md",
     "Hamstrings.md",
     "Iliococcygeus.md",
+    "iliocostalis.md",
     "image-asset.png",
     "knee capsule.md",
     "levator ani.md",
+    "Longissimus.md",
+    "longissimus capitis.md",
+    "longissimus cervicis.md",
+    "longissimus thoracis.md",
     "Medial-View-of-the-Tendons-of-the-Muscles-in-the-Post-Leg.jpg.webp",
     "Muscles-in-the-Deep-Layer-of-the-Posterior-Leg.jpg.webp",
     "Official Curriculum.md",
@@ -43,11 +49,16 @@
     "Popliteus.md",
     "Pubococcygeus.md",
     "Puborectalis.md",
+    "Relevant Studies.md",
     "Screen+Shot+2020-04-17+at+4.55.35+PM.png",
     "Semimembranosus.md",
     "Semitendinosus.md",
     "short toe flexors.md",
     "SIJ Reset.md",
+    "Spinalis.md",
+    "Spinalis Capitis.md",
+    "Spinalis Cervicis.md",
+    "Spinalis Thoracis.md",
     "Superficial Back Line.md",
     "Tibialis posterior.md",
     "Tracing Lines.md",
@@ -86,363 +97,429 @@
   ],
   "fileInfo": {
     "adductor brevis.md": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 516,
       "exportedPath": "adductor brevis.html",
       "dependencies": []
     },
     "adductor magnus.md": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 1785,
       "exportedPath": "adductor magnus.html",
       "dependencies": []
     },
     "adductor minimus.md": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 565,
       "exportedPath": "adductor minimus.html",
       "dependencies": []
     },
     "anatomy-of-the-knee-front.jpg": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 98886,
       "exportedPath": "anatomy-of-the-knee-front.jpg",
       "dependencies": []
     },
     "anatomy-of-the-knee-side.jpg": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 91317,
       "exportedPath": "anatomy-of-the-knee-side.jpg",
       "dependencies": []
     },
     "Curriculum Development.md": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 54,
       "exportedPath": "Curriculum Development.html",
       "dependencies": []
     },
     "Deep Front Line.md": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 3134,
       "exportedPath": "Deep Front Line.html",
       "dependencies": []
     },
     "diaphragm.md": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 1738,
       "exportedPath": "diaphragm.html",
       "dependencies": []
     },
     "flexor digitorum longus.md": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 713,
       "exportedPath": "flexor digitorum longus.html",
       "dependencies": []
     },
     "flexor hallucis longus.md": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 827,
       "exportedPath": "flexor hallucis longus.html",
       "dependencies": []
     },
     "Iliococcygeus.md": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 547,
       "exportedPath": "Iliococcygeus.html",
       "dependencies": []
     },
     "image-asset.png": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 652514,
       "exportedPath": "image-asset.png",
       "dependencies": []
     },
     "knee capsule.md": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 68,
       "exportedPath": "knee capsule.html",
       "dependencies": []
     },
     "levator ani.md": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 81,
       "exportedPath": "levator ani.html",
       "dependencies": []
     },
     "Official Curriculum.md": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 48,
       "exportedPath": "Official Curriculum.html",
       "dependencies": []
     },
     "pelvic floor.md": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 560,
       "exportedPath": "pelvic floor.html",
       "dependencies": []
     },
     "Popliteus.md": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 778,
       "exportedPath": "Popliteus.html",
       "dependencies": []
     },
     "Pubococcygeus.md": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 520,
       "exportedPath": "Pubococcygeus.html",
       "dependencies": []
     },
     "Puborectalis.md": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 510,
       "exportedPath": "Puborectalis.html",
       "dependencies": []
     },
     "Screen+Shot+2020-04-17+at+4.55.35+PM.png": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 548999,
       "exportedPath": "Screen+Shot+2020-04-17+at+4.55.35+PM.png",
       "dependencies": []
     },
     "Tibialis posterior.md": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 748,
       "exportedPath": "Tibialis posterior.html",
       "dependencies": []
     },
     "Tracing Lines.md": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 59,
       "exportedPath": "Tracing Lines.html",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 279,
       "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
       "dependencies": []
     },
     "800px-Posterior_compartment_of_leg_-_flexor_hallucis_longus.png": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 329076,
       "exportedPath": "800px-Posterior_compartment_of_leg_-_flexor_hallucis_longus.png",
       "dependencies": []
     },
     "adductor longus.md": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 669,
       "exportedPath": "adductor longus.html",
       "dependencies": []
     },
     "breathing-Copy-1.jpg": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 106463,
       "exportedPath": "breathing-Copy-1.jpg",
       "dependencies": []
     },
     "diaphragm.png.avif": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 77515,
       "exportedPath": "diaphragm.png.avif",
       "dependencies": []
     },
     "flexor-digitorum-longus.jpg": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 128442,
       "exportedPath": "flexor-digitorum-longus.jpg",
       "dependencies": []
     },
     "Medial-View-of-the-Tendons-of-the-Muscles-in-the-Post-Leg.jpg.webp": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 53398,
       "exportedPath": "Medial-View-of-the-Tendons-of-the-Muscles-in-the-Post-Leg.jpg.webp",
       "dependencies": []
     },
     "Muscles-in-the-Deep-Layer-of-the-Posterior-Leg.jpg.webp": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 47992,
       "exportedPath": "Muscles-in-the-Deep-Layer-of-the-Posterior-Leg.jpg.webp",
       "dependencies": []
     },
     "Fascia F.I.T.T..md": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 38,
       "exportedPath": "Fascia F.I.T.T..html",
       "dependencies": []
     },
     "319155588_839911143982008_6420799548972861372_n.jpg": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 329080,
       "exportedPath": "319155588_839911143982008_6420799548972861372_n.jpg",
       "dependencies": []
     },
     "Achilles tendon.md": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 248,
       "exportedPath": "Achilles tendon.html",
       "dependencies": []
     },
     "Biceps femoris.md": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 1145,
       "exportedPath": "Biceps femoris.html",
       "dependencies": []
     },
     "Flexor digiti minimi brevis.md": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 0,
       "exportedPath": "Flexor digiti minimi brevis.html",
       "dependencies": []
     },
     "Gastrocnemius.md": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 1192,
       "exportedPath": "Gastrocnemius.html",
       "dependencies": []
     },
     "Hamstrings.md": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 291,
       "exportedPath": "Hamstrings.html",
       "dependencies": []
     },
     "Plantar fascia.md": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 561,
       "exportedPath": "Plantar fascia.html",
       "dependencies": []
     },
     "short toe flexors.md": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 426,
       "exportedPath": "short toe flexors.html",
       "dependencies": []
     },
     "Superficial Back Line.md": {
-      "modifiedTime": 1735493161017,
-      "sourceSize": 1353,
+      "modifiedTime": 1737582259785,
+      "sourceSize": 1357,
       "exportedPath": "Superficial Back Line.html",
       "dependencies": []
     },
     "Breathe to Imprint.md": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 2572,
       "exportedPath": "Breathe to Imprint.html",
       "dependencies": []
     },
     "Core Connection.md": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 86,
       "exportedPath": "Core Connection.html",
       "dependencies": []
     },
     "Deep Front Line Work.md": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 0,
       "exportedPath": "Deep Front Line Work.html",
       "dependencies": []
     },
     "Semimembranosus.md": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 1270,
       "exportedPath": "Semimembranosus.html",
       "dependencies": []
     },
     "Semitendinosus.md": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 962,
       "exportedPath": "Semitendinosus.html",
       "dependencies": []
     },
     "SIJ Reset.md": {
-      "modifiedTime": 1735493161017,
+      "modifiedTime": 1737582259785,
       "sourceSize": 6091,
       "exportedPath": "SIJ Reset.html",
+      "dependencies": []
+    },
+    "Erector spinae.md": {
+      "modifiedTime": 1737582259785,
+      "sourceSize": 692,
+      "exportedPath": "Erector spinae.html",
+      "dependencies": []
+    },
+    "iliocostalis.md": {
+      "modifiedTime": 1737582259785,
+      "sourceSize": 0,
+      "exportedPath": "iliocostalis.html",
+      "dependencies": []
+    },
+    "Longissimus.md": {
+      "modifiedTime": 1737582259785,
+      "sourceSize": 601,
+      "exportedPath": "Longissimus.html",
+      "dependencies": []
+    },
+    "longissimus capitis.md": {
+      "modifiedTime": 1737582259785,
+      "sourceSize": 496,
+      "exportedPath": "longissimus capitis.html",
+      "dependencies": []
+    },
+    "longissimus cervicis.md": {
+      "modifiedTime": 1737582259785,
+      "sourceSize": 385,
+      "exportedPath": "longissimus cervicis.html",
+      "dependencies": []
+    },
+    "longissimus thoracis.md": {
+      "modifiedTime": 1737582259785,
+      "sourceSize": 1096,
+      "exportedPath": "longissimus thoracis.html",
+      "dependencies": []
+    },
+    "Relevant Studies.md": {
+      "modifiedTime": 1737582259785,
+      "sourceSize": 133,
+      "exportedPath": "Relevant Studies.html",
+      "dependencies": []
+    },
+    "Spinalis.md": {
+      "modifiedTime": 1737582259785,
+      "sourceSize": 598,
+      "exportedPath": "Spinalis.html",
+      "dependencies": []
+    },
+    "Spinalis Capitis.md": {
+      "modifiedTime": 1737582259785,
+      "sourceSize": 655,
+      "exportedPath": "Spinalis Capitis.html",
+      "dependencies": []
+    },
+    "Spinalis Cervicis.md": {
+      "modifiedTime": 1737582259785,
+      "sourceSize": 795,
+      "exportedPath": "Spinalis Cervicis.html",
+      "dependencies": []
+    },
+    "Spinalis Thoracis.md": {
+      "modifiedTime": 1737582259785,
+      "sourceSize": 510,
+      "exportedPath": "Spinalis Thoracis.html",
       "dependencies": []
     }
   }
